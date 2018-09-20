@@ -1,0 +1,10 @@
+.scrolling-wrapper 
+{
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+table > thead 
+{
+	display:none !important;
+}
